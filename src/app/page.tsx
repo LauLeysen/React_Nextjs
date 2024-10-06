@@ -38,7 +38,7 @@ export default function Home() {
           Welcome to my portfolio you can find my work{" "}
           <Link
             target="_blank"
-            href="#projects"
+            href="/projects"
             className="underline duration-500 hover:text-zinc-300"
           >
             here
